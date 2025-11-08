@@ -29,5 +29,5 @@ The database includes:
 - Average room temperature
 
 ## Author
-**Chen Love (Akira)**  
+**Chen Love**  
 UX / Data Analytics / Futuristic Enthusiast
